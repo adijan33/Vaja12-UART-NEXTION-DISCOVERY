@@ -14,6 +14,7 @@ RX pin na STM-u moramo povezati s TX pinom na Nextion zaslonu in obratno.
 
 d)
 PC0- kanal IN10
+
 4. e) 
 Gre za enojno/single ADC pretvorbo.
 
