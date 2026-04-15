@@ -7,7 +7,9 @@ objname-b0
 
 c) 
 RX- PA3
+
 TX- PA2
+
 RX pin na STM-u moramo povezati s TX pinom na Nextion zaslonu in obratno.
 
 d)
