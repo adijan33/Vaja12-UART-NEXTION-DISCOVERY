@@ -18,6 +18,7 @@ Gre za enojno/single ADC pretvorbo.
 Tabela ASCII:
 
 ASCII znak   Dvojiško Šestnajstiško Desetiško:
+
 ----0------0011 0000------30----------48
 
 ----1------0011 0001------31----------49
