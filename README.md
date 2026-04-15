@@ -1,1 +1,3 @@
 # Vaja12-UART-NEXTION-DISCOVERY
+2.d)
+Izpiše se z0
