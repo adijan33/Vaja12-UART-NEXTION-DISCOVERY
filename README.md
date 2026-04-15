@@ -48,6 +48,7 @@ Zapis 0xff predstavlja standardno zaključno zaporedje pri komunikaciji z Nextio
 
 
 Slika vezja
+
 <img width="396" height="454" alt="image" src="https://github.com/user-attachments/assets/bde3dd8d-cd53-4b62-8ab7-cf2670b72891" />
 
 
